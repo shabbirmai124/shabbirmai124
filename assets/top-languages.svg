@@ -1,0 +1,10 @@
+<svg width="520" height="190" viewBox="0 0 520 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Top programming languages</title><desc id="desc">Programming languages used by Md Shabbir Mia: C, Python, HTML, CSS, and JavaScript.</desc>
+<rect width="520" height="190" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" fill="#58a6ff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Top Programming Languages</text>
+<text x="25" y="65" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">Current learning and project stack</text>
+<rect x="25" y="88" width="470" height="18" rx="9" fill="#21262d"/>
+<rect x="25" y="88" width="155" height="18" rx="9" fill="#A8B9CC"/><rect x="180" y="88" width="125" height="18" fill="#3776AB"/><rect x="305" y="88" width="85" height="18" fill="#E34F26"/><rect x="390" y="88" width="55" height="18" fill="#1572B6"/><rect x="445" y="88" width="50" height="18" rx="9" fill="#F7DF1E"/>
+<circle cx="35" cy="138" r="6" fill="#A8B9CC"/><text x="50" y="143" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">C</text><circle cx="125" cy="138" r="6" fill="#3776AB"/><text x="140" y="143" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">Python</text><circle cx="235" cy="138" r="6" fill="#E34F26"/><text x="250" y="143" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">HTML</text><circle cx="340" cy="138" r="6" fill="#1572B6"/><text x="355" y="143" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">CSS</text><circle cx="420" cy="138" r="6" fill="#F7DF1E"/><text x="435" y="143" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">JS</text>
+<text x="25" y="174" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Web development · software projects · continuous learning</text>
+</svg>
