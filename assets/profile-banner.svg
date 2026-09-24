@@ -1,0 +1,20 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Md Shabbir Mia — Web Developer</title>
+  <desc id="desc">Professional gradient banner for Md Shabbir Mia, Web Developer and Software Developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="0.5" stop-color="#12264A"/><stop offset="1" stop-color="#071A2B"/></linearGradient>
+    <linearGradient id="accent" x1="90" y1="70" x2="1080" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#00C2FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="14" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="50" r="165" fill="#00C2FF" opacity=".08"/><circle cx="1120" cy="320" r="190" fill="#8B5CF6" opacity=".10"/>
+  <path d="M0 300C210 235 315 350 535 278C750 207 855 319 1200 205" stroke="url(#accent)" stroke-width="2" opacity=".5"/>
+  <path d="M0 320C230 255 355 365 565 296C780 226 900 342 1200 230" stroke="#00C2FF" stroke-width="1" opacity=".3"/>
+  <g opacity=".4" stroke="#7DD3FC" stroke-width="1"><path d="M820 78h250M820 98h180M820 118h220"/><path d="M85 80h150M85 100h110M85 120h180"/></g>
+  <g filter="url(#glow)"><circle cx="86" cy="70" r="5" fill="#00C2FF"/><circle cx="1110" cy="252" r="5" fill="#A78BFA"/></g>
+  <text x="86" y="157" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Md Shabbir Mia</text>
+  <text x="90" y="205" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">WEB DEVELOPER  •  SOFTWARE DEVELOPER</text>
+  <text x="90" y="250" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Building practical software, thoughtful interfaces, and reliable solutions.</text>
+  <rect x="90" y="282" width="190" height="38" rx="19" fill="url(#accent)"/><text x="185" y="307" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">ALWAYS BUILDING</text>
+  <text x="1060" y="310" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="18">&lt;/&gt;</text>
+</svg>

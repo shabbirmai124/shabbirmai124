@@ -1,138 +1,125 @@
-<!-- GitHub Profile README for shabbirmai124 -->
+<!-- Professional GitHub Profile README for shabbirmai124 -->
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Shabbir+Mia;Web+Developer+%7C+Software+Developer;Building+practical+digital+experiences;Always+learning.+Always+building." alt="Animated introduction" />
-
-  <h2>Web Developer & Software Developer</h2>
-
+  <img src="./assets/profile-banner.svg" alt="Md Shabbir Mia — Web Developer and Software Developer" width="100%" />
+  <br /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+practical+software;Learning%2C+building%2C+and+improving+every+day" alt="Animated profile message" />
   <p>
-    I build practical software projects and continue to strengthen my foundations in
-    programming, automation, and modern web development.
+    <a href="mailto:shabbirmia520@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/shabbirmai124"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/shabbirmai124?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   </p>
-
-  <p>
-    <a href="mailto:shabbirmia520@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-    </a>
-    <a href="https://github.com/shabbirmai124">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-  </p>
-
   <img src="https://komarev.com/ghpvc/?username=shabbirmai124&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hello, I'm Md Shabbir Mia
 
-I am a **Web Developer and Software Developer** focused on creating useful, maintainable applications while improving my approach to design, testing, and documentation. I enjoy breaking complex problems into clear steps and turning ideas into practical projects.
+I am a **Web Developer and Software Developer** focused on creating useful, maintainable applications. I enjoy transforming complex problems into clear solutions, designing accessible interfaces, and improving projects through steady iteration.
 
-- **Current focus:** Developing C and Python projects while expanding my web-development skills.
-- **Areas of interest:** Web development, application development, automation, software design, data handling, and accessible user experiences.
-- **How I work:** I value clear problem-solving, readable code, steady iteration, and learning through hands-on development.
-- **Collaboration:** Open to feedback, learning opportunities, and meaningful project-based collaboration.
+- 🌐 Building my skills in modern **web development** and responsive user experiences.
+- 🐍 Developing practical projects with **Python** and structured applications with **C**.
+- ⚙️ Interested in automation, software design, data handling, testing, and clean code.
+- 📚 Learning through hands-on development, documentation, feedback, and collaboration.
+- 🤝 Open to meaningful projects, learning opportunities, and constructive feedback.
 
----
-
-## 🧰 Technologies
+## 🛠️ Skills & Technologies
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,kotlin,react,git,github,vscode,linux&perline=11" alt="HTML, CSS, JavaScript, Python, C, Kotlin, React, Git, GitHub, VS Code, and Linux" />
+</div>
 
-| Area | Technologies |
+| Category | Technologies |
 | --- | --- |
-| **Languages** | C, Python |
+| **Programming** | C, Python |
 | **Web development** | HTML, CSS, JavaScript |
-| **Developer tools** | Git, GitHub, Visual Studio Code |
-| **Currently exploring** | Kotlin, React, modern frontend development |
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,kotlin,react" alt="C, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, Kotlin and React" />
-
-</div>
+| **Tools** | Git, GitHub, Visual Studio Code |
+| **Exploring** | Kotlin, React, responsive design, automation |
+| **Engineering interests** | Clean code, algorithms, accessibility, documentation, testing |
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-### 🔐 [Fingerprint Voting System](https://github.com/shabbirmai124/FingerPrintVoting-System)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/shabbirmai124/SyncSpace">SyncSpace</a></h3>
+      <p>Unified team collaboration and mobile-platform project designed to bridge structured enterprise productivity with engaging social collaboration.</p>
+      <img src="https://img.shields.io/badge/Collaboration-2563EB?style=flat-square" alt="Collaboration" />
+      <img src="https://img.shields.io/badge/Mobile%20Platform-00A98F?style=flat-square" alt="Mobile platform" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/shabbirmai124/TopperTrack">TopperTrack</a></h3>
+      <p>An academic tracking project focused on organizing progress, performance insights, and useful student workflows.</p>
+      <img src="https://img.shields.io/badge/Project-Academic%20Tracking-7C3AED?style=flat-square" alt="Academic tracking" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐦 <a href="https://github.com/shabbirmai124/flappy-bird-pro.github.io">Flappy Bird Pro</a></h3>
+      <p>A browser-based game project demonstrating interactive web development and frontend experimentation.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Web%20Game-1572B6?style=flat-square&logo=javascript&logoColor=white" alt="Web game" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/shabbirmai124/Deep-Multimodal-Hand-Gesture-Recognition-using-Attention-Augmented-CNN">Hand Gesture Recognition</a></h3>
+      <p>Deep multimodal hand-gesture recognition project using an attention-augmented CNN approach.</p>
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep learning" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" alt="Computer vision" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/shabbirmai124/Spell-Checker-Analyser-">Spell Checker Analyser</a></h3>
+      <p>A C project exploring spell-checking and text-analysis concepts.</p>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/shabbirmai124/FingerPrintVoting-System">Fingerprint Voting System</a></h3>
+      <p>Python command-line simulation with registration, hashed simulated identifiers, duplicate-vote prevention, and result reporting.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+</table>
 
-A Python command-line simulation of an electronic voting workflow. It supports candidate and voter registration, hashes simulated voter identifiers, prevents duplicate voting, and presents vote results.
+### More projects
 
-**Technologies:** Python · SHA-256 · Command-Line Interface  
-**Note:** This learning project uses user-entered identifiers to simulate fingerprints; it does not use fingerprint-scanning hardware.
-
-### 🛒 [Market Visit Problem](https://github.com/shabbirmai124/Market_Visit_Problem)
-
-A C programming project that demonstrates structured problem-solving and practical implementation in C.
-
-**Technologies:** C
-
-### ✅ [Spell Checker Analyser](https://github.com/shabbirmai124/Spell-Checker-Analyser-)
-
-A C project exploring spell-checking and text-analysis concepts.
-
-**Technologies:** C
-
-### 🎫 [Event Management](https://github.com/shabbirmai124/Event-Managment)
-
-A web project focused on an event-management use case and interface development.
-
-**Technologies:** HTML
-
-### 🏋️ [Gym Management System](https://github.com/shabbirmai124/Gym_management_System)
-
-A project based on a gym-management use case. Visit the repository for implementation details and future updates.
+- 🎫 [Event Management](https://github.com/shabbirmai124/Event-Managment)
+- 🏋️ [Gym Management System](https://github.com/shabbirmai124/Gym_management_System)
+- 🛒 [Market Visit Problem](https://github.com/shabbirmai124/Market_Visit_Problem)
+- 🗂️ [View all repositories](https://github.com/shabbirmai124?tab=repositories)
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top programming languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top programming languages" height="170" />
 </div>
-
 <br />
-
 <div align="center">
-
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirmai124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirmai124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
 </div>
 
 ---
 
 ## 🎯 Current Goals
 
-- Build more complete, well-documented software projects.
-- Strengthen skills in data structures, algorithms, and clean-code practices.
-- Improve application design, testing, and version-control workflows.
-- Develop stronger frontend and web-development skills.
-- Contribute to projects that solve practical problems for real users.
+- Build complete, well-documented web and software projects.
+- Strengthen data structures, algorithms, clean-code, and testing practices.
+- Improve responsive UI design and modern web-development skills.
+- Learn from collaboration and contribute to practical open-source work.
 
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
-
-  <p>For collaboration, feedback, or project discussions, feel free to reach out.</p>
-
-  <a href="mailto:shabbirmia520@gmail.com">
-    <img src="https://img.shields.io/badge/shabbirmia520%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email shabbirmia520@gmail.com" />
-  </a>
-
+  <p>Have an idea, feedback, or an interesting project? Feel free to reach out.</p>
+  <a href="mailto:shabbirmai520@gmail.com"><img src="https://img.shields.io/badge/shabbirmia520%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email shabbirmai520@gmail.com" /></a>
   <br /><br />
-
   <a href="https://github.com/shabbirmai124">GitHub Profile</a>
-
 </div>
 
 ---
