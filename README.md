@@ -1,173 +1,158 @@
-<!--
-  GitHub Profile README for shabbirmai124
-  Designed to look modern, professional, and visually impressive.
--->
+<!-- Professional GitHub Profile README for shabbirmai124 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md+Shabbir+Mia;Software+Engineer;Mobile+%26+Systems+Developer;Building+scalable+solutions" alt="Typing SVG" />
-
-  <h3>🚀 Building clean, efficient, and future-ready software</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Shabbir+Mia;Web+Developer+%7C+Software+Engineer;Building+clean+and+useful+digital+experiences;Always+learning.+Always+shipping." alt="Animated introduction" />
 
   <p>
-    <strong>Software Engineer | Mobile & Systems Developer</strong><br>
-    I design and build scalable applications, automate workflows, and develop reliable system-level solutions.
+    <strong>Web Developer · Software Engineer · Mobile & Systems Enthusiast</strong>
   </p>
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/shabbirmai124" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p>
+    I build responsive interfaces, practical applications, and reliable software<br />
+    with a focus on clean architecture, performance, and great user experiences.
+  </p>
 
-  <br /><br />
+  <p>
+    <a href="https://github.com/shabbirmai124">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=shabbirmai124&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shabbirmai124&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🔭 About Me
+## 👨‍💻 About Me
 
-- 🚀 Currently building and improving real-world software solutions with a focus on performance, portability, and maintainability.
-- 🧠 Passionate about mobile development, systems thinking, automation, and resilient architecture.
-- 🛠️ Interested in Kotlin, Python, C, backend engineering, and scalable application workflows.
-- 📚 Always exploring modern engineering patterns and building tools that simplify complexity.
-- 💬 Ask me about: Kotlin app states, C-based system logic, automation pipelines, and efficient software design.
+- 🌐 **Web Developer** focused on responsive, accessible, and maintainable web experiences.
+- 🚀 Building **TopperTrack**, an academic tracking platform with practical real-world value.
+- 🧩 Interested in frontend engineering, backend workflows, mobile development, and systems programming.
+- 🛠️ I enjoy turning complex requirements into simple, reliable, and polished products.
+- 🌱 Continuously improving my skills in modern web technologies, architecture, automation, and security.
+- 💬 Ask me about Kotlin, Python, C, JavaScript, web development, and automation.
 
 ---
 
-## 🧩 Tech Stack
+## 🧰 Technology Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>Languages</strong><br><br>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
 
-      <td align="center" width="33%">
-        <strong>Frontend</strong><br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      </td>
+| Web Development | Programming | Tools & Platforms |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web technologies" /> | <img src="https://skillicons.dev/icons?i=kotlin,python,c" alt="Programming languages" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools and platforms" /> |
 
-      <td align="center" width="33%">
-        <strong>Tools & Platforms</strong><br><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      </td>
-    </tr>
-  </table>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20UI-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Clean%20Code-00A98F?style=flat-square" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Automation-FFB000?style=flat-square" alt="Automation" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 What I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 TopperTrack</h3>
-      <p>
-        A smart academic tracking platform designed to manage student performance, progress insights, and structured academic monitoring.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-Enabled-00C853?style=flat-square" />
-      </p>
+      <h3>🌐 Web Applications</h3>
+      <p>Modern, responsive interfaces with thoughtful UX, reusable components, and maintainable code.</p>
     </td>
-
     <td width="50%" valign="top">
-      <h3>⚙️ Automation Tools</h3>
-      <p>
-        Focused on building workflow automations, developer utilities, and productivity systems that reduce repetitive work and improve efficiency.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scripting-Automation-FFB300?style=flat-square" />
-        <img src="https://img.shields.io/badge/Linux-001d3d?style=flat-square&logo=linux&logoColor=white" />
-      </p>
+      <h3>📱 Mobile Experiences</h3>
+      <p>Practical mobile applications with clean state management, reliable flows, and polished interactions.</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Applications</h3>
-      <p>
-        Designing user-centered mobile experiences with clean architecture, maintainability, and modern UI patterns.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
+      <h3>⚙️ Automation & Developer Tools</h3>
+      <p>Scripts and workflows that remove repetitive work, improve productivity, and simplify development.</p>
     </td>
-
     <td width="50%" valign="top">
-      <h3>🔐 Security & Systems</h3>
-      <p>
-        Exploring security-first thinking, efficient system design, and robust application foundations for production-grade software.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Security-First-FF5252?style=flat-square" />
-        <img src="https://img.shields.io/badge/C-Programming-00599C?style=flat-square&logo=c&logoColor=white" />
-      </p>
+      <h3>🔐 Systems & Security</h3>
+      <p>Exploring efficient system design, secure engineering practices, and dependable software foundations.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Featured Work
+
+### 📚 TopperTrack
+An integrated academic tracking platform designed to organize progress, performance insights, and academic workflows.
+
+**Focus:** Product design · Automation · Data organization · User experience
+
+### 🧱 Web Development Projects
+A growing collection of responsive websites, interactive interfaces, and practical web solutions built with modern frontend technologies.
+
+**Focus:** HTML · CSS · JavaScript · React · Responsive design
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top programming languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirmai124&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirmai124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbirmai124&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
 </div>
 
 ---
 
-## 🧭 Current Focus
+## 🎯 Current Focus
 
-- Building meaningful software products with practical value.
-- Strengthening mobile and systems development skills.
-- Designing modern, scalable architecture patterns.
-- Learning and applying secure, efficient engineering principles.
+```text
+Web development       ████████████████████  Building
+Clean architecture    ██████████████████░░  Improving
+Automation            ████████████████░░░░  Exploring
+Security              ██████████████░░░░░░  Learning
+```
+
+- Building useful products with clear, intuitive interfaces.
+- Improving full-stack and modern web development skills.
+- Learning better architecture, testing, performance, and security practices.
+- Collaborating on projects that solve meaningful problems.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-If you’d like to collaborate, discuss ideas, or build something impactful together:
-
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio-url.com
+<div align="center">
+  <p>Have an idea, opportunity, or interesting project? I'd be happy to connect.</p>
+  <a href="mailto:your.email@example.com">Email me</a> ·
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
+  <a href="https://github.com/shabbirmai124">GitHub</a>
+</div>
 
 ---
 
 <div align="center">
-  <sub>Designed with purpose, built for impact, and always evolving.</sub>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%E2%9C%A8" alt="Closing animation" />
+  <br /><br />
+  <sub>Designed with purpose · Built with curiosity · Evolving every day</sub>
 </div>
