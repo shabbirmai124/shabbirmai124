@@ -1,27 +1,22 @@
-<!-- Professional GitHub Profile README for shabbirmai124 -->
+<!-- GitHub Profile README for shabbirmai124 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Shabbir+Mia;Web+Developer+%7C+Software+Engineer;Building+clean+and+useful+digital+experiences;Always+learning.+Always+shipping." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Md+Shabbir+Mia;Web+Developer+%7C+Software+Developer;Building+practical+digital+experiences;Always+learning.+Always+building." alt="Animated introduction" />
+
+  <h2>Web Developer & Software Developer</h2>
 
   <p>
-    <strong>Web Developer · Software Engineer · Mobile & Systems Enthusiast</strong>
+    I build practical software projects and continue to strengthen my foundations in
+    programming, automation, and modern web development.
   </p>
 
   <p>
-    I build responsive interfaces, practical applications, and reliable software<br />
-    with a focus on clean architecture, performance, and great user experiences.
-  </p>
-
-  <p>
+    <a href="mailto:shabbirmia520@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    </a>
     <a href="https://github.com/shabbirmai124">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
   </p>
 
@@ -33,126 +28,117 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 **Web Developer** focused on responsive, accessible, and maintainable web experiences.
-- 🚀 Building **TopperTrack**, an academic tracking platform with practical real-world value.
-- 🧩 Interested in frontend engineering, backend workflows, mobile development, and systems programming.
-- 🛠️ I enjoy turning complex requirements into simple, reliable, and polished products.
-- 🌱 Continuously improving my skills in modern web technologies, architecture, automation, and security.
-- 💬 Ask me about Kotlin, Python, C, JavaScript, web development, and automation.
+I am a **Web Developer and Software Developer** focused on creating useful, maintainable applications while improving my approach to design, testing, and documentation. I enjoy breaking complex problems into clear steps and turning ideas into practical projects.
+
+- **Current focus:** Developing C and Python projects while expanding my web-development skills.
+- **Areas of interest:** Web development, application development, automation, software design, data handling, and accessible user experiences.
+- **How I work:** I value clear problem-solving, readable code, steady iteration, and learning through hands-on development.
+- **Collaboration:** Open to feedback, learning opportunities, and meaningful project-based collaboration.
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Technologies
 
 <div align="center">
 
-| Web Development | Programming | Tools & Platforms |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web technologies" /> | <img src="https://skillicons.dev/icons?i=kotlin,python,c" alt="Programming languages" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools and platforms" /> |
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C, Python |
+| **Web development** | HTML, CSS, JavaScript |
+| **Developer tools** | Git, GitHub, Visual Studio Code |
+| **Currently exploring** | Kotlin, React, modern frontend development |
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,kotlin,react" alt="C, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, Kotlin and React" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Responsive%20UI-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/Clean%20Code-00A98F?style=flat-square" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Automation-FFB000?style=flat-square" alt="Automation" />
-</p>
+---
+
+## 🚀 Selected Projects
+
+### 🔐 [Fingerprint Voting System](https://github.com/shabbirmai124/FingerPrintVoting-System)
+
+A Python command-line simulation of an electronic voting workflow. It supports candidate and voter registration, hashes simulated voter identifiers, prevents duplicate voting, and presents vote results.
+
+**Technologies:** Python · SHA-256 · Command-Line Interface  
+**Note:** This learning project uses user-entered identifiers to simulate fingerprints; it does not use fingerprint-scanning hardware.
+
+### 🛒 [Market Visit Problem](https://github.com/shabbirmai124/Market_Visit_Problem)
+
+A C programming project that demonstrates structured problem-solving and practical implementation in C.
+
+**Technologies:** C
+
+### ✅ [Spell Checker Analyser](https://github.com/shabbirmai124/Spell-Checker-Analyser-)
+
+A C project exploring spell-checking and text-analysis concepts.
+
+**Technologies:** C
+
+### 🎫 [Event Management](https://github.com/shabbirmai124/Event-Managment)
+
+A web project focused on an event-management use case and interface development.
+
+**Technologies:** HTML
+
+### 🏋️ [Gym Management System](https://github.com/shabbirmai124/Gym_management_System)
+
+A project based on a gym-management use case. Visit the repository for implementation details and future updates.
 
 ---
 
-## 🚀 What I Build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Applications</h3>
-      <p>Modern, responsive interfaces with thoughtful UX, reusable components, and maintainable code.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile Experiences</h3>
-      <p>Practical mobile applications with clean state management, reliable flows, and polished interactions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Automation & Developer Tools</h3>
-      <p>Scripts and workflows that remove repetitive work, improve productivity, and simplify development.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Systems & Security</h3>
-      <p>Exploring efficient system design, secure engineering practices, and dependable software foundations.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌟 Featured Work
-
-### 📚 TopperTrack
-An integrated academic tracking platform designed to organize progress, performance insights, and academic workflows.
-
-**Focus:** Product design · Automation · Data organization · User experience
-
-### 🧱 Web Development Projects
-A growing collection of responsive websites, interactive interfaces, and practical web solutions built with modern frontend technologies.
-
-**Focus:** HTML · CSS · JavaScript · React · Responsive design
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top programming languages" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shabbirmai124&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirmai124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top programming languages" />
+
 </div>
 
 <br />
 
 <div align="center">
+
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirmai124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbirmai124&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Goals
 
-```text
-Web development       ████████████████████  Building
-Clean architecture    ██████████████████░░  Improving
-Automation            ████████████████░░░░  Exploring
-Security              ██████████████░░░░░░  Learning
-```
-
-- Building useful products with clear, intuitive interfaces.
-- Improving full-stack and modern web development skills.
-- Learning better architecture, testing, performance, and security practices.
-- Collaborating on projects that solve meaningful problems.
+- Build more complete, well-documented software projects.
+- Strengthen skills in data structures, algorithms, and clean-code practices.
+- Improve application design, testing, and version-control workflows.
+- Develop stronger frontend and web-development skills.
+- Contribute to projects that solve practical problems for real users.
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
-  <p>Have an idea, opportunity, or interesting project? I'd be happy to connect.</p>
-  <a href="mailto:your.email@example.com">Email me</a> ·
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
-  <a href="https://github.com/shabbirmai124">GitHub</a>
+
+  <p>For collaboration, feedback, or project discussions, feel free to reach out.</p>
+
+  <a href="mailto:shabbirmia520@gmail.com">
+    <img src="https://img.shields.io/badge/shabbirmia520%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email shabbirmia520@gmail.com" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/shabbirmai124">GitHub Profile</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%E2%9C%A8" alt="Closing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%E2%9C%A8" alt="Animated closing message" />
   <br /><br />
   <sub>Designed with purpose · Built with curiosity · Evolving every day</sub>
 </div>
