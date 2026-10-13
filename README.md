@@ -4,7 +4,12 @@
   <img src="./assets/profile-banner.svg" alt="Md Shabbir Mia — Web Developer and Software Developer" width="100%" />
   <br /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+practical+software;Learning+new+skills+every+day;Building+useful+software+solutions;Exploring+modern+web+development" alt="Typing animation" />
-  <p><a href="mailto:shabbirmia@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/shabbirmai124"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a> <a href="https://www.linkedin.com/in/shabbir-mia-591a87259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+  <p>
+    <a href="mailto:shabbirmia@gmail.com"><img src="https://img.shields.io/badge/Email-shabbirmia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email primary" /></a>
+    <a href="mailto:shabbirmia520@gmail.com"><img src="https://img.shields.io/badge/Email-shabbirmia520%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email secondary" /></a>
+    <a href="https://github.com/shabbirmai124"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+    <a href="https://www.linkedin.com/in/shabbir-mia-591a87259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
   <img src="https://komarev.com/ghpvc/?username=shabbirmai124&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
 
@@ -64,7 +69,10 @@ I am a **Web Developer and Software Developer** focused on creating useful, main
 
 ## 📫 Let's Connect
 
-<div align="center"><p>Have an idea, feedback, or an interesting project? Feel free to reach out.</p><a href="mailto:shabbirmia@gmail.com"><img src="https://img.shields.io/badge/shabbirmia%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></div>
+<div align="center"><p>Have an idea, feedback, or an interesting project? Feel free to reach out.</p>
+<a href="mailto:shabbirmia@gmail.com"><img src="https://img.shields.io/badge/shabbirmia%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email primary" /></a>
+<a href="mailto:shabbirmia520@gmail.com"><img src="https://img.shields.io/badge/shabbirmia520%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email secondary" /></a>
+</div>
 
 ---
 
